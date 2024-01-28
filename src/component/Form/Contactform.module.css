@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    max-width: 500px;
+    margin-left: 20px;
+    position: relative;
+    /* overflow-y: hidden; */
+
+}
+.top_btn{
+    display: flex;
+    margin-right: 100px;
+    gap: 2px;
+}
+
+.contact_form{
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+.form_control {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin-left: 120px;
+   
+
+
+}
+.form_control input {
+ 
+    height: 30px;
+}
+.form_control lebel{
+    position: absolute; 
+    background-color: transparent;
+    padding: 0 10px;
+
+}

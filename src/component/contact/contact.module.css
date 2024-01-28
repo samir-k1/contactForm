@@ -1,0 +1,10 @@
+.contactUs h1{
+    font-weight: 800;
+    font-size: large;
+    margin:5px;
+}
+
+.contactUs p{
+    margin-top: 20px;
+    background-color: aqua;
+}
